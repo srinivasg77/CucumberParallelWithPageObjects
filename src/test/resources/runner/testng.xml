@@ -6,5 +6,7 @@
       <class name="com.common.cucumber.zoho.runners.LoginFeatureRunner"/>
       <class name="com.common.cucumber.zoho.runners.ValidateCRMFeatureRunner"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test parallel execution -->
 </suite> <!-- Suite -->
+
+
