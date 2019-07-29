@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45012" started-at="2019-07-29T03:28:15Z" finished-at="2019-07-29T03:29:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45012" started-at="2019-07-29T03:28:15Z" finished-at="2019-07-29T03:29:00Z">
+      <class name="com.common.cucumber.zoho.runners.LoginFeatureRunner">
+        <test-method status="PASS" signature="runCukes()[pri:0, instance:com.common.cucumber.zoho.runners.LoginFeatureRunner@fca387]" name="runCukes" duration-ms="45012" started-at="2019-07-28T22:28:15Z" finished-at="2019-07-28T22:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCukes -->
+      </class> <!-- com.common.cucumber.zoho.runners.LoginFeatureRunner -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
