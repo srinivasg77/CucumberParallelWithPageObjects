@@ -1,6 +1,6 @@
-### CucumberParallelWithPageObjects
+### BDD Approach - Page Object Pattern - using Selenium TestNG Cucumber
 
-1. Go to the unzip file and import the project using the maven build.
+1. Download and unzip file and import the project using the maven build or the clone the project from git.
 2. This is designed by page object model with BDD approach ( Tools like Selenium, TestNG, Cucumber, Extent Report and Selenium Gird).
 3. All dependency are added into the POM.xml file.
 4. create a basesteps and base configuration of extent report which are located the pageobjects of the src/main/java  in the project structure.
